@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "PLuKVYVYePKLd6nl93HmTEZSyp6vJWLBeSJR0LaPTgQYD7h/KdLpIs4PylK6GfW2fGF5/LoyJfVEcMBbl+Gczg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Надя\\OneDrive\\Документы\\мої роботи\\ПР 2-1\\2 курс\\ПППі\\ScheduleCreator\\ScheduleCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Надя\\.nuget\\packages\\gembox.spreadsheet\\49.0.1153\\gembox.spreadsheet.49.0.1153.nupkg.sha512",
+    "C:\\Users\\Надя\\.nuget\\packages\\harfbuzzsharp\\2.8.2\\harfbuzzsharp.2.8.2.nupkg.sha512",
+    "C:\\Users\\Надя\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\2.8.2\\harfbuzzsharp.nativeassets.macos.2.8.2.nupkg.sha512",
+    "C:\\Users\\Надя\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\2.8.2\\harfbuzzsharp.nativeassets.win32.2.8.2.nupkg.sha512",
+    "C:\\Users\\Надя\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Надя\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\Надя\\.nuget\\packages\\skiasharp\\2.80.3\\skiasharp.2.80.3.nupkg.sha512",
+    "C:\\Users\\Надя\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Надя\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

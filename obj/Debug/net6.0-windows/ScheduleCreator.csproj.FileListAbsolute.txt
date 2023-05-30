@@ -1,0 +1,114 @@
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\ScheduleCreator.exe
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\ScheduleCreator.deps.json
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\ScheduleCreator.runtimeconfig.json
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\ScheduleCreator.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\ScheduleCreator.pdb
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.csproj.AssemblyReference.cache
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.Form1.resources
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.Properties.Resources.resources
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.csproj.GenerateResource.cache
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.AssemblyInfoInputs.cache
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.AssemblyInfo.cs
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.csproj.CoreCompileInputs.cache
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\refint\ScheduleCreator.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.pdb
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.genruntimeconfig.cache
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\ref\ScheduleCreator.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.CreateScheduleForm.resources
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.csproj.ResolveComReference.cache
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\GemBox.Spreadsheet.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\HarfBuzzSharp.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\GemBox.Spreadsheet.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\Interop.MSDAOSP.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\Interop.ADOX.dll
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.EditScheduleForm.resources
+C:\Users\HardesNB\source\repos\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.csproj.CopyComplete
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\ScheduleCreator.exe
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\ScheduleCreator.deps.json
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\ScheduleCreator.runtimeconfig.json
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\ScheduleCreator.dll
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\ScheduleCreator.pdb
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\GemBox.Spreadsheet.dll
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\HarfBuzzSharp.dll
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\SkiaSharp.dll
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\GemBox.Spreadsheet.dll
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+E:\Навчання\ОПІ\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.csproj.AssemblyReference.cache
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\Interop.MSDAOSP.dll
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\Interop.ADOX.dll
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.csproj.ResolveComReference.cache
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.CreateScheduleForm.resources
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.EditScheduleForm.resources
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.Form1.resources
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.Properties.Resources.resources
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.csproj.GenerateResource.cache
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.AssemblyInfoInputs.cache
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.AssemblyInfo.cs
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.csproj.CoreCompileInputs.cache
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.csproj.CopyComplete
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.dll
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\refint\ScheduleCreator.dll
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.pdb
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.genruntimeconfig.cache
+E:\Навчання\ОПІ\ScheduleCreator\obj\Debug\net6.0-windows\ref\ScheduleCreator.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\ScheduleCreator.exe
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\ScheduleCreator.deps.json
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\ScheduleCreator.runtimeconfig.json
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\ScheduleCreator.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\ScheduleCreator.pdb
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\GemBox.Spreadsheet.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\HarfBuzzSharp.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\GemBox.Spreadsheet.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.csproj.AssemblyReference.cache
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\Interop.MSDAOSP.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\Interop.ADOX.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.csproj.ResolveComReference.cache
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.CreateScheduleForm.resources
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.EditScheduleForm.resources
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.Form1.resources
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.Properties.Resources.resources
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.csproj.GenerateResource.cache
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.AssemblyInfoInputs.cache
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.AssemblyInfo.cs
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.csproj.CoreCompileInputs.cache
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.csproj.CopyComplete
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\refint\ScheduleCreator.dll
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.pdb
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\ScheduleCreator.genruntimeconfig.cache
+C:\Users\Надя\OneDrive\Документы\мої роботи\ПР 2-1\2 курс\ПППі\ScheduleCreator\obj\Debug\net6.0-windows\ref\ScheduleCreator.dll
